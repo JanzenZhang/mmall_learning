@@ -21,7 +21,7 @@
                 </property>
             </bean>
             <bean class="org.springframework.http.converter.json.MappingJacksonHttpMessageConverter">
-                <property name="supportedMediaTypes">
+                <property name="suppor tedMediaTypes">
                     <list>
                         <value>application/json;charset=UTF-8</value>
                     </list>
